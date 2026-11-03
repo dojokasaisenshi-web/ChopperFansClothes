@@ -1,0 +1,6 @@
+{
+  "name": "Chopper Fans Clothes - Ropa Estilo Chopper para Hombres y Mujeres",
+  "description": "Tienda independiente en Santiago de Chile especializada exclusivamente en ropa estilo chopper para motoristas hombres y mujeres. Chaquetas de cuero pesado, chalecos, poleras y gorros de ruta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
